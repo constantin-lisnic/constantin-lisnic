@@ -1,4 +1,4 @@
-### 👨‍💻 About me 
+### 👨‍💻 About me: 
 
 I am a Frontend Developer with 2+ years of successful software delivery experience. Proficient in JavaScript, TypeScript, React, and Node.js. Specialised in Micro frontends and Web Performance.
 
