@@ -1,17 +1,27 @@
-### 👨‍💻 About me: 
+### About me: 
 
 👨‍💻 I am a Senior React Developer / Contractor / Freelancer with 𝟯+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.
 
-Leaving my comfort zone in Romania to fulfil my dream: building an international IT presence as a Software Engineer providing software development services for top technology companies.
+✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
+• React
+• Next.js
+• TypeScript, JavaScript, Webpack, ES6+
+• Tailwind, styled-components, Storybook
+• CSS, SCSS & LESS, HTML5
 
-💻 Programming Languages: JavaScript, TypeScript.
+✅ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲:
+• Micro-frontends
+• Microservices
+• System Design, SOLID Principles
 
-🔧Technologies & Tools: React, Redux, Node.js, Express.js, GraphQL, Cypress, PostgreSQL, Jenkins, Babel, OAuth2, JWT, RESTful APIs, Webpack, Nginx, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
+✅ 𝗢𝘁𝗵𝗲𝗿:
+• Node.js, Rest API, GraphQL
+• AWS, Pulumi
+• Docker
 
-☁️ Cloud: CI/CD, CloudBees (Jenkins), Git, Gitlab, AWS ECS, AWS S3, AWS EC2, AWS RDS, API Gateway, Pulumi, Docker.
+🌍 Only interested in remote work.
 
+🤝 Do you think my expertise could help your business? 𝗗𝗿𝗼𝗽 𝗺𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 and 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!
 
-📊 Methodologies: SCRUM, Agile, TDD, BDD
-
-
-🌐 Interests: Micro Frontends, Data-Rich Applications, Software Architecture, Cloud Computing, Containerization
+📞 Phone: +44 7943 549179
+✉️ Email: constantin@lisnic.dev
