@@ -1,9 +1,9 @@
 ### About me: 
 
-👨‍💻 I am a Senior React Developer / Contractor / Freelancer with 𝟯+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.
+👨‍💻 I am a Senior React Developer / Contractor / Freelancer with 𝟯+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.\
 
-✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:
-• React
+✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:\
+• React\
 • Next.js
 • TypeScript, JavaScript, Webpack, ES6+
 • Tailwind, styled-components, Storybook
