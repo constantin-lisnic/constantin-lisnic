@@ -7,21 +7,21 @@
 • Next.js\
 • TypeScript, JavaScript, Webpack, ES6+\
 • Tailwind, styled-components, Storybook\
-• CSS, SCSS & LESS, HTML5\
+• CSS, SCSS & LESS, HTML5
 
 ✅ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲:\
 • Micro-frontends\
 • Microservices\
-• System Design, SOLID Principles\
+• System Design, SOLID Principles
 
 ✅ 𝗢𝘁𝗵𝗲𝗿:\
 • Node.js, Rest API, GraphQL\
 • AWS, Pulumi\
-• Docker\
+• Docker
 
-🌍 Only interested in remote work.\
+🌍 Only interested in remote work.
 
-🤝 Do you think my expertise could help your business? 𝗗𝗿𝗼𝗽 𝗺𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 and 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!\
+🤝 Do you think my expertise could help your business? 𝗗𝗿𝗼𝗽 𝗺𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 and 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!
 
 📞 Phone: +44 7943 549179\
 ✉️ Email: constantin@lisnic.dev
