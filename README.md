@@ -1,10 +1,8 @@
 ### 👨‍💻 About me: 
 
-I am a Frontend Developer with 2+ years of successful software delivery experience. Proficient in JavaScript, TypeScript, React, and Node.js. Specialised in Micro frontends and Web Performance.
+👨‍💻 I am a Senior React Developer / Contractor / Freelancer with 𝟯+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.
 
-Leaving my comfort zone in Romania to fulfil my dream: building an international
-career in IT as a Software Engineer for a top technology company. After successfully
-graduating in Physics, I started my developer career in the software industry.
+Leaving my comfort zone in Romania to fulfil my dream: building an international IT presence as a Software Engineer providing software development services for top technology companies.
 
 💻 Programming Languages: JavaScript, TypeScript.
 
