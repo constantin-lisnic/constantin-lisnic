@@ -23,5 +23,5 @@
 
 🤝 Do you think my expertise could help your business? 𝗗𝗿𝗼𝗽 𝗺𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 and 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!
 
-📞 Phone: +44 7943 549179\
+📞 Phone: +44 7777 112212\
 ✉️ Email: constantin@lisnic.dev
