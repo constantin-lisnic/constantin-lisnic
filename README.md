@@ -15,7 +15,7 @@
 • System Design, SOLID Principles
 
 ✅ 𝗢𝘁𝗵𝗲𝗿:\
-• iOS Development
+• iOS Development\
 • Node.js, Rest API, GraphQL\
 • AWS, Pulumi\
 • Docker
