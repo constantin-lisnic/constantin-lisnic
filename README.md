@@ -1,6 +1,6 @@
 ### About me: 
 
-👨‍💻 I am a Senior React Developer / Contractor / Freelancer with 5+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.
+👨‍💻 I am a Senior Software Engineer / Contractor / Freelancer with 6+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I use my experience, skills, and passion to design and implement top-of-the-line software solutions for companies worldwide.
 
 ✅ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱:\
 • React\
@@ -15,6 +15,7 @@
 • System Design, SOLID Principles
 
 ✅ 𝗢𝘁𝗵𝗲𝗿:\
+• iOS Development
 • Node.js, Rest API, GraphQL\
 • AWS, Pulumi\
 • Docker
